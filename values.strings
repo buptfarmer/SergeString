@@ -1,9 +1,9 @@
 
 /* comment app_name*/
-app_name = "EduGames_ios" // extra comment
+app_name = "EduGames" // extra comment
 /* comment action_settings*/
-action_settings = "Settings_ios" // extra comment
+action_settings = "Settings" // extra comment
 /* comment action_feedback*/
-action_feedback = "Feedback_ios" // extra comment
+action_feedback = "Feedback" // extra comment
 /* comment key_in_ios*/
 key_in_ios = "value_in_ios" // extra comment
