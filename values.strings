@@ -9,3 +9,24 @@ action_feedback = "Feedback"; // extra comment
 action_feedback_ios = "Feedback"; // extra comment
 /* comment key_in_ios*/
 key_in_ios = "value_in_ios"; // extra comment
+
+/*  */
+"day_of_week[0]" = "Mon";
+
+/*  */
+"day_of_week[1]" = "Tue";
+
+/*  */
+"day_of_week[2]" = "Wed";
+
+/*  */
+"day_of_week[3]" = "Thu";
+
+/*  */
+"day_of_week[4]" = "Fri";
+
+/*  */
+"day_of_week[5]" = "Sat";
+
+/*  */
+"day_of_week[6]" = "Sun";
