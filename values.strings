@@ -5,5 +5,7 @@ app_name = "EduGames"; // extra comment
 action_settings = "Settings"; // extra comment
 /* comment action_feedback*/
 action_feedback = "Feedback"; // extra comment
+/* comment action_feedback*/
+action_feedback_ios = "Feedback"; // extra comment
 /* comment key_in_ios*/
 key_in_ios = "value_in_ios"; // extra comment
